@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rap2.informationhot.kr/sitemap.xml
