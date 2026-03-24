@@ -1,9 +1,10 @@
-baseURL = "https://rap2.informationhot.kr/"
+baseURL = "https://apply.informationhot.kr/"
 languageCode = "ko"
 title = "청약 알리미"
 theme = "blowfish"
 enableRobotsTXT = true
-paginate = 20
+[pagination]
+  pagerSize = 20
 
 [params]
   colorScheme = "sapphire"
