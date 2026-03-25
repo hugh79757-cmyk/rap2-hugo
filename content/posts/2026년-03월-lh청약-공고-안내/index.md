@@ -72,18 +72,10 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 3. 청약 당첨 확률을 높이기 위해 준비와 정보 공유가 필수적입니다.
 
 ---
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
-
-
 <div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
   <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 LH청약 주변 지도로 확인하기</p>
   <a href="https://map.naver.com/v5/search/LH%EC%B2%AD%EC%95%BD%20%EC%B2%AD%EC%95%BD%20%EB%8B%A8%EC%A7%80" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
 </div>
----
-
-> 이 글은 한국부동산원 청약홈 공공데이터를 기반으로 작성되었습니다. 정확한 청약 일정과 자격은 [청약홈](https://www.applyhome.co.kr)에서 확인하세요.
-
-> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 
 ---
 
@@ -92,16 +84,16 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [이사 박스 세트 대형](https://link.coupang.com/a/cmDN3g)
 - [LG 퓨리케어 정수기](https://link.coupang.com/a/cmDN4h)
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
-
-
-## 함께 읽으면 좋은 글
-
-- [2026년 03월 LH행복주택 공고 안내](/posts/2026년-03월-lh행복주택-공고-안내/)
-- [2026년 03월 이촌르엘분양가 청약 정보](/posts/2026년-03월-이촌르엘분양가-청약-정보/)
-- [2026년 03월 청년 주택드림 청약통장 정보](/posts/2026년-03월-청년-주택드림-청약통장-정보/)
-
+---
 
 ---
 
-> 이 글은 국토교통부 실거래가 공공데이터를 기반으로 작성되었습니다. 투자 판단의 책임은 본인에게 있으며, 최신 정보는 [국토교통부 실거래가 공개시스템](https://rt.molit.go.kr)에서 확인하세요.
+> 이 글은 한국부동산원 청약홈 공공데이터를 기반으로 작성되었습니다. 정확한 청약 일정과 자격은 [청약홈](https://www.applyhome.co.kr)에서 확인하세요.
+
+> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
+
+## 함께 읽으면 좋은 글
+
+- [2026년 03월 청년안심주택 청약 정보 안내](/posts/2026년-03월-청년안심주택-청약-정보-안내/)
+- [2026년 03월 이촌르엘분양가 청약 정보](/posts/2026년-03월-이촌르엘분양가-청약-정보/)
+- [2026년 03월 청약일정 및 신청 방법 안내](/posts/2026년-03월-청약일정-및-신청-방법-안내/)
