@@ -79,13 +79,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 ## 새집 입주 준비 추천 가전
 
 - [가정용 데스크탑 LED 스마트 스크린 즉열식 전기포트 5단 수온 3단 수량 탁상용 소형 전기포트, 흰색](https://link.coupang.com/a/ea3cmJ) — 167,800원
-- [현관 대용량 수납장 원룸 아파트 문뒤 다용도 서랍 신발장, 화이트+화이트 1000*320*1000(mm), 4단](https://link.coupang.com/a/ea3cqc) — 211,000원
-<div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
-  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 주택청약 당첨 확률 높이는 법 주변 지도로 확인하기</p>
-  <a href="https://map.naver.com/v5/search/%EC%A3%BC%ED%83%9D%EC%B2%AD%EC%95%BD%20%EB%8B%B9%EC%B2%A8%20%ED%99%95%EB%A5%A0%20%EB%86%92%EC%9D%B4%EB%8A%94%20%EB%B2%95%20%EC%B2%AD%EC%95%BD%20%EB%8B%A8%EC%A7%80" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
-</div>
-
----
+- [현관 대용량 수납장 원룸 아파트 문뒤 다용도 서랍 신발장, 화이트+화이트 1000*320*1000(mm), 4단](https://link.coupang.com/a/ea3cqc) — 211,000원---
 
 ---
 

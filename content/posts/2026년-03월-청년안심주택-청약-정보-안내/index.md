@@ -100,13 +100,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 ## 새집 입주 준비 추천 가전
 
 - [TREVI 건조 방수 비데, ST-1300, 방문설치](https://link.coupang.com/a/eaXxbv) — 187,000원
-- [3구 전기레인지 빌트인 스텐드 하이라이트 인덕션, 빌트인, 화이트](https://link.coupang.com/a/eaXxeD) — 368,000원
-<div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
-  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 청년안심주택 주변 지도로 확인하기</p>
-  <a href="https://map.naver.com/v5/search/%EC%B2%AD%EB%85%84%EC%95%88%EC%8B%AC%EC%A3%BC%ED%83%9D%20%EC%B2%AD%EC%95%BD%20%EB%8B%A8%EC%A7%80" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
-</div>
-
----
+- [3구 전기레인지 빌트인 스텐드 하이라이트 인덕션, 빌트인, 화이트](https://link.coupang.com/a/eaXxeD) — 368,000원---
 
 ---
 

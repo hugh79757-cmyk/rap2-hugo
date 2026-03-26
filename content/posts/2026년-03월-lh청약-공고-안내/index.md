@@ -71,13 +71,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 2. 청약 신청 시 자격 요건 및 필요 서류를 확인해야 합니다.
 3. 청약 당첨 확률을 높이기 위해 준비와 정보 공유가 필수적입니다.
 
----
-<div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
-  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 LH청약 주변 지도로 확인하기</p>
-  <a href="https://map.naver.com/v5/search/LH%EC%B2%AD%EC%95%BD%20%EC%B2%AD%EC%95%BD%20%EB%8B%A8%EC%A7%80" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
-</div>
-
----
+------
 
 ## 새 아파트 입주 준비 추천
 
