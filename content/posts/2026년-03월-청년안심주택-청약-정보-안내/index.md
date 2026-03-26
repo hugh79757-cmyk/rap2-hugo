@@ -97,7 +97,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 ---
 
-## 새집 입주 준비 추천 가전
+## 부동산 거래 시 유용한 추천 상품
 
 - [TREVI 건조 방수 비데, ST-1300, 방문설치](https://link.coupang.com/a/eaXxbv) — 187,000원
 - [3구 전기레인지 빌트인 스텐드 하이라이트 인덕션, 빌트인, 화이트](https://link.coupang.com/a/eaXxeD) — 368,000원---

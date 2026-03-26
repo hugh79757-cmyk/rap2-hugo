@@ -76,7 +76,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 ---
 
-## 새집 입주 준비 추천 가전
+## 부동산 거래 시 유용한 추천 상품
 
 - [가정용 데스크탑 LED 스마트 스크린 즉열식 전기포트 5단 수온 3단 수량 탁상용 소형 전기포트, 흰색](https://link.coupang.com/a/ea3cmJ) — 167,800원
 - [현관 대용량 수납장 원룸 아파트 문뒤 다용도 서랍 신발장, 화이트+화이트 1000*320*1000(mm), 4단](https://link.coupang.com/a/ea3cqc) — 211,000원---
