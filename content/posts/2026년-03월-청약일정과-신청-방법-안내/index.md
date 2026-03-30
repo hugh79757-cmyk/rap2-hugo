@@ -57,8 +57,8 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 
 <div style="margin:28px 0;padding:18px 22px;background:linear-gradient(135deg,#f8f9ff 0%,#e8f4fd 100%);border-radius:14px;border-left:4px solid #3182ce;">
-  <p style="margin:0 0 6px 0;font-size:0.85rem;color:#718096;">📌 놓치면 아쉬운 글</p>
-  <a href="/posts/2026년-03월-청약일정-및-신청-방법-안내/" style="font-size:1.05rem;font-weight:600;color:#2d3748;text-decoration:none;">2026년 03월 청약일정 및 신청 방법 안내</a>
+ <p style="margin:0 0 6px 0;font-size:0.85rem;color:#718096;">📌 놓치면 아쉬운 글</p>
+ <a href="/posts/2026년-03월-청약일정-및-신청-방법-안내/" style="font-size:1.05rem;font-weight:600;color:#2d3748;text-decoration:none;">2026년 03월 청약일정 및 신청 방법 안내</a>
 </div>
 
 ## 청약 당첨 확률 높이는 팁
@@ -66,7 +66,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 청약 신청을 할 때는 당첨 확률을 높이기 위한 몇 가지 팁이 있습니다. 다음은 유용한 정보입니다.
 
 ### 1. 다양한 공고에 신청하기
-가능한 많은 공고에 신청하여 당첨 확률을 높이는 것이 좋습니다. 특히 관심 있는 지역의 다양한 유형의 주택에 신청해 보세요.
+가능한 많은 공고에 신청하여 당첨 확률을 높이는 것이 좋습니다. 관심 있는 지역의 다양한 유형의 주택에 신청해 보세요.
 
 ### 2. 청약 통장 활용
 청약 통장을 잘 활용하면 우선순위를 높일 수 있습니다. 일정 금액 이상을 예치하고, 규정된 기간을 유지하는 것이 중요합니다.

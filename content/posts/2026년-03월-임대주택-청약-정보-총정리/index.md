@@ -47,15 +47,15 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 청약에 성공하기 위해서는 몇 가지 팁을 기억하는 것이 중요합니다. 첫째로, 공고 발표일을 잘 확인하고 접수 기간 내에 빠짐없이 신청하는 것이 필요합니다. 신청 마감일을 놓치지 않도록 주의하세요.
 
-둘째로, 여러 유형의 임대주택 공고를 통해 다양한 지원을 받을 수 있는지 검토해 보세요. 특히, 신혼부부 및 청년을 위한 매입임대주택과 국민임대주택이 많이 모집되는 시기입니다.
+둘째로, 여러 유형의 임대주택 공고를 통해 다양한 지원을 받을 수 있는지 검토해 보세요. 신혼부부 및 청년을 위한 매입임대주택과 국민임대주택이 많이 모집되는 시기입니다.
 
 셋째로, 꼼꼼한 서류 준비가 필요합니다. 공고 별로 요구하는 서류가 다를 수 있으므로, 각 공고에 맞춰 필요한 서류를 미리 준비해 두는 것이 유리합니다. 불필요한 서류는 제외하고, 반드시 제출해야 하는 서류를 체크리스트로 정리해 두세요.
 
 
 
 <div style="margin:28px 0;padding:18px 22px;background:linear-gradient(135deg,#f8f9ff 0%,#e8f4fd 100%);border-radius:14px;border-left:4px solid #3182ce;">
-  <p style="margin:0 0 6px 0;font-size:0.85rem;color:#718096;">📌 놓치면 아쉬운 글</p>
-  <a href="/posts/2026년-03월-청약일정-안내-및-정보를-확인하세요/" style="font-size:1.05rem;font-weight:600;color:#2d3748;text-decoration:none;">2026년 03월 청약일정 안내 및 정보를 확인하세요</a>
+ <p style="margin:0 0 6px 0;font-size:0.85rem;color:#718096;">📌 놓치면 아쉬운 글</p>
+ <a href="/posts/2026년-03월-청약일정-안내-및-정보를-확인하세요/" style="font-size:1.05rem;font-weight:600;color:#2d3748;text-decoration:none;">2026년 03월 청약일정 안내 및 정보를 확인하세요</a>
 </div>
 
 ## 

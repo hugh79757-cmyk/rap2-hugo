@@ -54,8 +54,8 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 
 <div style="margin:28px 0;padding:18px 22px;background:linear-gradient(135deg,#f8f9ff 0%,#e8f4fd 100%);border-radius:14px;border-left:4px solid #3182ce;">
-  <p style="margin:0 0 6px 0;font-size:0.85rem;color:#718096;">📌 놓치면 아쉬운 글</p>
-  <a href="/posts/2026년-03월-청년임대주택-청약-정보-총정리/" style="font-size:1.05rem;font-weight:600;color:#2d3748;text-decoration:none;">2026년 03월 청년임대주택 청약 정보 총정리</a>
+ <p style="margin:0 0 6px 0;font-size:0.85rem;color:#718096;">📌 놓치면 아쉬운 글</p>
+ <a href="/posts/2026년-03월-청년임대주택-청약-정보-총정리/" style="font-size:1.05rem;font-weight:600;color:#2d3748;text-decoration:none;">2026년 03월 청년임대주택 청약 정보 총정리</a>
 </div>
 
 ## 청약 당첨 확률 높이는 팁
@@ -69,7 +69,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 자신의 상황에 맞는 공고를 선택하세요. 신혼부부에게 유리한 청약이나 특정 지역에 대한 자격 요건 등을 미리 분석하여 원하는 주택을 선택하는 것이 중요합니다.
 
 ### 마감일 확인
-청약 접수 마감일을 철저히 확인하고, 신청하는 것을 잊지 않도록 리마인더를 설정하세요. 특히, 마감일이 가까워질수록 신청자가 많아지므로 여유 있게 신청해야 합니다.
+청약 접수 마감일을 철저히 확인하고, 신청하는 것을 잊지 않도록 리마인더를 설정하세요. 마감일이 가까워질수록 신청자가 많아지므로 여유 있게 신청해야 합니다.
 
 ## 결론
 
