@@ -14,7 +14,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 2026년 03월에는 다양한 부동산 청약 공고가 발표되었습니다. 총 10건의 공고가 있으며, 각 공고는 지역별로 분양 및 임대주택에 대한 정보가 포함되어 있습니다. 청약을 희망하는 분들은 아래의 공고 목록을 참고하여 신청 기간과 조건을 확인하시기 .
 
 | 공고명 | 유형 | 지역 | 접수기간 |
-|--|||----|
+|---|---|---|---|
 | [청주 10년 분양전환공공임대주택(리츠) 예비입주자 모집공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061063&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026) | 공공임대 | 충청북도 | 2026.03.27 ~ 2026.04.08 |
 | [인천가정2 A-2블록 신혼희망타운(공공분양) 잔여세대 추가 입주자모집공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061065&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027) | 공공분양 | 인천광역시 | 2026.03.27 ~ 2026.04.10 |
 | [대구경북 다세대주택 잔여세대 선착순 일반매각 공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019618&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027) | 분양주택 | 대구광역시 | 2026.03.27 ~ 2026.12.18 |

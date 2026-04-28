@@ -18,7 +18,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 아래는 2026년 03월에 발표된 청년임대주택 관련 청약 공고 목록입니다. 지역별로 정리하여 쉽게 확인할 수 있도록 하였습니다.
 
 | 공고명                                                      | 유형                     | 지역          | 접수기간                |
-|-----||---|-----|
+|---|---|---|---|
 | [청주 10년 분양전환공공임대주택(리츠) 예비입주자 모집공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061063&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026) | 공공임대                | 충청북도      | 2026.03.27 ~ 2026.04.08 |
 | [인천가정2 A-2블록 신혼희망타운(공공분양) 잔여세대 추가 입주자모집공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061065&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027) | 공공분양(신혼희망)     | 인천광역시    | 2026.03.27 ~ 2026.04.10 |
 | [대구경북 다세대주택 잔여세대 선착순 일반매각 공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019618&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027) | 분양주택               | 대구광역시    | 2026.03.27 ~ 2026.12.18 |

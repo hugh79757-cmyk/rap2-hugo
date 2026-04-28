@@ -18,7 +18,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 다음은 2026년 03월에 진행되는 청년 전세임대 관련 공고 목록입니다. 각 공고의 접수 기간과 자세한 링크를 확인해 보세요.
 
 | 공고명                             | 유형     | 지역        | 접수기간        |
-|-|--|-||
+|---|---|---|---|
 | [부산금정구 고령자형 매입임대주택 예비입주자 모집 공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019448&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026) | 매입임대   | 전국        | 2026.03.30 ~ 2026.04.22 |
 | [마산중리1 임대상가 입점자 모집공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=LN-0002788&ccrCnntSysDsCd=04&uppAisTpCd=22&aisTpCd=24&mi=1069) | 임대상가(추첨) | 경상남도     | 2026.03.30 ~ 2026.04.28 |
 | [서귀포성산 단지내 희망상가 공급 공고(1호)](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019487&ccrCnntSysDsCd=03&uppAisTpCd=22&aisTpCd=43&mi=1069) | 임대상가(입찰) | 제주특별자치도  | 2026.03.30 ~ 2026.04.15 |
