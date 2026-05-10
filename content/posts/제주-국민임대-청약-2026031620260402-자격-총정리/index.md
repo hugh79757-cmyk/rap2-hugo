@@ -1,7 +1,7 @@
 ---
 title: "제주 국민임대 청약 2026.03.16~2026.04.02, 자격 총정리"
 date: 2026-04-11
-draft: false
+draft: true
 categories: ["청약정보"]
 tags:
   - "제주"

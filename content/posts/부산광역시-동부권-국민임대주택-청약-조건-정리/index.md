@@ -1,7 +1,7 @@
 ---
 title: "부산광역시 동부권 국민임대주택 청약 조건 정리"
 date: 2026-04-12
-draft: false
+draft: true
 categories: ["청약정보"]
 tags:
   - "부산"

@@ -1,7 +1,7 @@
 ---
 title: "부산범천2 청약 1순위 되려면? 조건 정리"
 date: 2026-04-13
-draft: false
+draft: true
 categories: ["청약정보"]
 tags:
   - "부산범천2"

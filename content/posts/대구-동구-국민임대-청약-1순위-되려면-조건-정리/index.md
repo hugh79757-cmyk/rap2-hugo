@@ -1,7 +1,7 @@
 ---
 title: "대구 동구 국민임대 청약 1순위 되려면? 조건 정리"
 date: 2026-04-11
-draft: false
+draft: true
 categories: ["청약정보"]
 tags:
   - "대구 동구"

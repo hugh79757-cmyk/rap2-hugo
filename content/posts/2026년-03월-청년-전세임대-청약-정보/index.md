@@ -1,4 +1,5 @@
 ---
+
 title: "2026년 03월 청년 전세임대 청약 정보"
 slug: '2026년-03월-청년-전세임대-청약-정보'
 date: '2026-03-30T08:14:40+09:00'
@@ -8,7 +9,6 @@ tags: ['청년 전세임대', '청약 정보', '2026년']
 categories: ['청약정보']
 featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/20260330-7883d366ad.webp"
 ---
-
 ## 2026년 청년 전세임대 1순위 입주자 수시모집 청약 개요
 
 2026년 03월에는 청년을 위한 전세임대 주택의 1순위 입주자 수시모집이 진행됩니다. 이 청약은 청년들에게 안정적인 주거 공간을 제공하기 위한 정책으로, 많은 청년들이 관심을 가지고 있습니다. 청약에 참여하기 위해서는 일정한 자격 요건을 충족해야 하며, 필요한 서류를 준비해야 합니다. 아래에서는 청약 일정, 자격 요건, 신청 방법 등을 자세히 안내해드리겠습니다.
@@ -16,19 +16,6 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 ## 청약 공고 목록
 
 다음은 2026년 03월에 진행되는 청년 전세임대 관련 공고 목록입니다. 각 공고의 접수 기간과 자세한 링크를 확인해 보세요.
-
-| 공고명                             | 유형     | 지역        | 접수기간        |
-|---|---|---|---|
-| [부산금정구 고령자형 매입임대주택 예비입주자 모집 공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019448&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026) | 매입임대   | 전국        | 2026.03.30 ~ 2026.04.22 |
-| [마산중리1 임대상가 입점자 모집공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=LN-0002788&ccrCnntSysDsCd=04&uppAisTpCd=22&aisTpCd=24&mi=1069) | 임대상가(추첨) | 경상남도     | 2026.03.30 ~ 2026.04.28 |
-| [서귀포성산 단지내 희망상가 공급 공고(1호)](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019487&ccrCnntSysDsCd=03&uppAisTpCd=22&aisTpCd=43&mi=1069) | 임대상가(입찰) | 제주특별자치도  | 2026.03.30 ~ 2026.04.15 |
-| [서귀포혁신1 무순위 선착순 동호지정 분양 공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019408&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027) | 분양주택   | 제주특별자치도  | 2026.03.30 ~ 2026.07.31 |
-| [청주 10년 분양전환공공임대주택(리츠) 예비입주자 모집공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061063&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026) | 공공임대   | 충청북도     | 2026.03.27 ~ 2026.04.08 |
-| [인천가정2 A-2블록 신혼희망타운(공공분양) 잔여세대 추가 입주자모집공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061065&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027) | 공공분양(신혼희망) | 인천광역시   | 2026.03.27 ~ 2026.04.10 |
-| [대구경북 다세대주택 잔여세대 선착순 일반매각 공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019618&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027) | 분양주택   | 대구광역시    | 2026.03.27 ~ 2026.12.18 |
-| [부천원종A2BL 어린이집 임차운영자 선정공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=LN-0002789&ccrCnntSysDsCd=04&uppAisTpCd=22&aisTpCd=24&mi=1069) | 임대상가(추첨) | 경기도      | 2026.03.27 ~ 2026.04.06 |
-| [청원오송1 국민임대 예비입주자 모집](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019620&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026) | 국민임대   | 충청북도     | 2026.03.26 ~ 2026.04.01 |
-| [2026년 1차 신혼·신생아 매입임대주택Ⅱ(전세형) 예비입주자 모집공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019588&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026) | 매입임대   | 전북특별자치도  | 2026.03.26 ~ 2026.04.08 |
 
 ## 청약 자격 요건
 
@@ -44,8 +31,6 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 4. 청약 신청서 (공고에 명시된 양식에 따라 작성)
 
 서류 준비가 완료되면, 해당 공고에 따라 온라인으로 신청하거나, 지정된 장소에 직접 제출해야 합니다.
-
-
 
 <div style="margin:28px 0;padding:18px 22px;background:linear-gradient(135deg,#f8f9ff 0%,#e8f4fd 100%);border-radius:14px;border-left:4px solid #3182ce;">
   <p style="margin:0 0 6px 0;font-size:0.85rem;color:#718096;">📌 놓치면 아쉬운 글</p>
@@ -73,13 +58,11 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 > **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
 
-
 ## 함께 읽으면 좋은 글
 
 - [2026년 03월 이촌르엘분양가 청약 정보](/posts/2026년-03월-이촌르엘분양가-청약-정보/)
 - [2026년 03월 LH임대주택 청약 정보 총정리](/posts/2026년-03월-lh임대주택-청약-정보-총정리/)
 - [2026년 03월 청년안심주택 공고 정보](/posts/2026년-03월-청년안심주택-공고-정보/)
-
 
 ---
 

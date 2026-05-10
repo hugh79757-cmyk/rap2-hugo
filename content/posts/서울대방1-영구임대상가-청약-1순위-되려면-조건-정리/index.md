@@ -1,7 +1,7 @@
 ---
 title: "서울대방1 영구임대상가 청약 1순위 되려면? 조건 정리"
 date: 2026-04-13
-draft: false
+draft: true
 categories: ["청약정보"]
 tags:
   - "서울대방1"

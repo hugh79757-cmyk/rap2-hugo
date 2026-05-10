@@ -1,7 +1,7 @@
 ---
 title: "[부산만덕5지구] 청약 2026.03.19~04.01, 자격 총정리"
 date: 2026-04-12
-draft: false
+draft: true
 categories: ["청약정보"]
 tags:
   - "부산"

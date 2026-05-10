@@ -1,4 +1,5 @@
 ---
+
 title: "2026년 03월 청년임대주택 청약 정보 총정리"
 slug: '2026년-03월-청년임대주택-청약-정보-총정리'
 date: '2026-03-26T11:14:50+09:00'
@@ -8,7 +9,6 @@ tags: ['청년임대주택', '청약', '부동산']
 categories: ['청약정보']
 featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/20260326-120738dff8.webp"
 ---
-
 ## 2026년 03월 청년임대주택 청약 공고
 
 2026년 03월에 진행되는 청년임대주택 청약을 통해 안정적인 주거 환경을 마련할 수 있는 기회입니다. 이번 포스팅에서는 청약 공고와 신청 방법, 자격 요건 등을 자세히 소개하겠습니다. 청년들이 주거 문제를 해결할 수 있도록 다양한 매입임대 공고가 준비되어 있으니, 정확한 정보를 통해 준비하시기 .
@@ -16,19 +16,6 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 ### 청약 공고 목록
 
 이번 2026년 03월에는 총 10건의 청약 공고가 있습니다. 아래의 표를 통해 자세한 내용을 확인해보세요.
-
-| 공고명                                           | 유형     | 지역               | 접수기간                  |
-|-|----|--|-|
-| [신혼·신생아 매입임대주택Ⅱ(전세형)](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019580&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026) | 매입임대 | 광주광역시        | 2026.03.26 ~ 2026.04.08 |
-| [신혼·신생아 매입임대주택Ⅰ](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019579&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026) | 매입임대 | 광주광역시 외    | 2026.03.26 ~ 2026.04.08 |
-| [청년 매입임대주택](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019577&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026) | 매입임대 | 광주광역시 외    | 2026.03.26 ~ 2026.04.08 |
-| [신혼·신생아Ⅱ(전세형)](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019615&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026) | 매입임대 | 인천광역시 외    | 2026.03.26 ~ 2026.04.08 |
-| [신혼·신생아Ⅰ](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019614&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026) | 매입임대 | 인천광역시 외    | 2026.03.26 ~ 2026.04.08 |
-| [청년 매입임대](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019596&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026) | 매입임대 | 인천광역시 외    | 2026.03.26 ~ 2026.04.08 |
-| [성남복정1 A3블록 상가 재분양 공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=BN-0001283&ccrCnntSysDsCd=04&uppAisTpCd=22&aisTpCd=23&mi=1069) | 분양     | 전국               | 2026.03.26 ~ 2026.03.31 |
-| [성남복정1 A2블록 상가 재분양 공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=BN-0001282&ccrCnntSysDsCd=04&uppAisTpCd=22&aisTpCd=23&mi=1069) | 분양     | 전국               | 2026.03.26 ~ 2026.03.31 |
-| [성남복정1 A1블록 상가 재분양 공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=BN-0001281&ccrCnntSysDsCd=04&uppAisTpCd=22&aisTpCd=23&mi=1069) | 분양     | 전국               | 2026.03.26 ~ 2026.03.31 |
-| [신혼부부Ⅱ(전세형) 매입임대주택](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019612&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026) | 매입임대 | 부산광역시 외    | 2026.03.26 ~ 2026.04.08 |
 
 ### 청약 신청 자격
 
@@ -81,13 +68,11 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 > **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
 
-
 ## 함께 읽으면 좋은 글
 
 - [2026년 03월 임대주택 청약 정보 총정리](/posts/2026년-03월-임대주택-청약-정보-총정리/)
 - [2026년 03월 LH임대주택 청약 정보 총정리](/posts/2026년-03월-lh임대주택-청약-정보-총정리/)
 - [2026년 03월 청년주택 청약 정보 총정리](/posts/2026년-03월-청년주택-청약-정보-총정리/)
-
 
 ---
 

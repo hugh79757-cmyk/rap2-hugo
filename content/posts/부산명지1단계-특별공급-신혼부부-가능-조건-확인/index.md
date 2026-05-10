@@ -1,7 +1,7 @@
 ---
 title: "[부산명지1단계] 특별공급 신혼부부 가능? 조건 확인"
 date: 2026-04-14
-draft: false
+draft: true
 categories: ["청약정보"]
 tags:
   - "부산"

@@ -1,7 +1,7 @@
 ---
 title: "인천옹진연평 외 9건 청약, 놓치면 안 되는 공고"
 date: 2026-04-15
-draft: false
+draft: true
 categories: ["청약정보"]
 tags:
   - "인천청약"

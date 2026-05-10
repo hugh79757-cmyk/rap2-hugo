@@ -1,7 +1,7 @@
 ---
 title: "인천옹진백령 청약 1순위 되려면? 조건 정리"
 date: 2026-04-12
-draft: false
+draft: true
 categories: ["청약정보"]
 tags:
   - "인천옹진백령"

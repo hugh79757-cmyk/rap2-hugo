@@ -1,4 +1,5 @@
 ---
+
 title: "2026년 03월 LH행복주택 공고 안내"
 slug: '2026년-03월-lh행복주택-공고-안내'
 date: '2026-03-24T18:04:39+09:00'
@@ -8,7 +9,6 @@ tags: ['LH행복주택', '청약정보', '국민임대']
 categories: ['청약정보']
 featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/20260324-01346ff8a1.webp"
 ---
-
 ## LH행복주택이란?
 
 LH행복주택은 주거안정과 주거복지 향상을 위해 저렴한 가격으로 제공되는 주택입니다. 청년, 신혼부부, 고령자 등 다양한 계층을 위한 주택으로, 안정적인 주거 생활을 지원하기 위해 마련되었습니다. 이 글에서는 2026년 03월에 진행되는 LH행복주택 관련 청약 공고를 안내하겠습니다.
@@ -16,19 +16,6 @@ LH행복주택은 주거안정과 주거복지 향상을 위해 저렴한 가격
 ## 2026년 03월 LH행복주택 공고 목록
 
 다음은 2026년 03월에 진행되는 LH행복주택 청약 공고 목록입니다.
-
-| 공고명 | 지역 | 공고 시작일 | 마감일 | 상태 | 링크 |
-|---|---|---|---|---|---|
-| [정정공고]경남 통영안정 국민임대주택 예비입주자 자격완화 모집 | 경상남도 | 2026.03.24 | 2026.04.10 | 공고중 | [자세히 보기](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019569&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026) |
-| [정정공고]경남 진주평거(고령자복지) 국민임대 예비입주자 모집 | 경상남도 | 2026.03.24 | 2026.04.10 | 공고중 | [자세히 보기](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019584&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026) |
-| [정정공고]경남 사천용현 국민임대주택 예비입주자 모집 | 경상남도 | 2026.03.24 | 2026.04.10 | 공고중 | [자세히 보기](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019585&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026) |
-| 인천시청역 힐스테이트 국민임대주택 입주자 모집 공고 | 인천광역시 | 2026.03.24 | 2026.04.09 | 공고중 | [자세히 보기](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019533&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026) |
-| [정정공고]춘천시·홍천군·화천군 지역 국민임대주택 예비입주자 모집 | 강원특별자치도 | 2026.03.24 | 2026.04.23 | 공고중 | [자세히 보기](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019566&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026) |
-| [정정공고]대전광역시 동구지역 국민임대주택 예비입주자 모집 | 대전광역시 | 2026.03.24 | 2026.04.09 | 공고중 | [자세히 보기](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019576&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026) |
-| [정정공고]논산시지역 국민임대주택 예비입주자 모집공고 | 충청남도 | 2026.03.24 | 2026.04.08 | 공고중 | [자세히 보기](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019575&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026) |
-| [정정공고]보령시지역 국민임대주택 예비입주자 모집공고 | 충청남도 | 2026.03.24 | 2026.04.07 | 공고중 | [자세히 보기](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019574&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026) |
-| [정정공고]서천군 지역 국민임대주택 예비입주자 모집 | 충청남도 | 2026.03.24 | 2026.04.06 | 공고중 | [자세히 보기](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019573&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026) |
-| [정정공고]양산시 국민임대주택 예비입주자 완화 모집 | 경상남도 | 2026.03.24 | 2026.04.02 | 공고중 | [자세히 보기](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019571&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=07&mi=1026) |
 
 ## 청약 자격 및 신청 방법
 

@@ -1,7 +1,7 @@
 ---
 title: "부산범천2 청약 2026.02.02~2026.07.15, 자격 총정리"
 date: 2026-04-11
-draft: false
+draft: true
 categories: ["청약정보"]
 tags:
   - "부산범천2"

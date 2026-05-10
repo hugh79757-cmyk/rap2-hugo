@@ -1,7 +1,7 @@
 ---
 title: "[부산울산]신혼부부Ⅰ 청약 1순위 되려면? 조건 정리"
 date: 2026-04-15
-draft: false
+draft: true
 categories: ["청약정보"]
 tags:
   - "부산"
