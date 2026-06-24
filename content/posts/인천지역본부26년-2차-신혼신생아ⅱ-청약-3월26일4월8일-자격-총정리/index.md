@@ -15,7 +15,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 2026년 4월에 접수되는 인천지역의 청약 공고는 다음과 같습니다. 이 중 신혼·신생아Ⅱ(전세형) 공고에 대해 자세히 알아보겠습니다.
 
 | 공고명 | 유형 | 지역 | 접수기간 | 세대수 |
-| --- | --- | --- | --- | --- |
+|---|---|---|---|---|
 | [26년 2차 신혼·신생아Ⅱ 예비입주자 모집공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019615&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026) | 매입임대 | 인천 | 2026.03.26 ~ 2026.04.08 | 미상 |
 | [26년 2차 신혼·신생아Ⅰ 예비입주자 모집공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019614&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026) | 매입임대 | 인천 | 2026.03.26 ~ 2026.04.08 | 미상 |
 | [26년 2차 청년 매입임대 예비입주자 모집공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019596&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026) | 매입임대 | 인천 | 2026.03.26 ~ 2026.04.08 | 미상 |

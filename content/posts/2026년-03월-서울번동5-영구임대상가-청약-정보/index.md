@@ -19,7 +19,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 아래는 서울번동5 영구임대상가를 포함한 최근의 공고 목록입니다.
 
 | 공고명 | 유형 | 지역 | 접수기간 |
-| --- | --- | --- | --- |
+|---|---|---|---|
 | [서울번동5 영구임대상가 입점자 모집공고(7701-108호)](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=LN-0002772&ccrCnntSysDsCd=04&uppAisTpCd=22&aisTpCd=24&mi=1069) | 임대상가(추첨) | 서울특별시 | 2026.02.13 ~ 2026.02.27 |
 | [서울등촌1단지 영구임대상가 입점자 모집공고(210호)](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=LN-0002778&ccrCnntSysDsCd=04&uppAisTpCd=22&aisTpCd=24&mi=1069) | 임대상가(추첨) | 서울특별시 | 2026.03.05 ~ 2026.03.19 |
 | [서울등촌9 영구임대상가 입점자 모집공고(7701-107,109,110,207)](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=LN-0002774&ccrCnntSysDsCd=04&uppAisTpCd=22&aisTpCd=24&mi=1069) | 임대상가(추첨) | 서울특별시 | 2026.02.24 ~ 2026.03.24 |

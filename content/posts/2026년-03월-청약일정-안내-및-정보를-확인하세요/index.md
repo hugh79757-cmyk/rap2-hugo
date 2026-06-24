@@ -18,7 +18,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 아래 표에서 2026년 03월에 공고된 청약 정보를 확인하실 수 있습니다.
 
 | 공고명 | 유형 | 지역 | 접수기간 |
-| --- | --- | --- | --- |
+|---|---|---|---|
 | [2026년 3월 천안시·아산시 신혼·신생아 II 매입임대주택 예비입주자 모집 공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019534&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026) | 매입임대 | 충청남도 | 2026.03.26 ~ 2026.04.08 |
 | [청년 매입임대주택 예비입주자 모집 공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019613&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026) | 매입임대 | 대전광역시 외 | 2026.03.26 ~ 2026.04.08 |
 | [신혼·신생아 I 매입임대주택 예비입주자 모집 공고](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019541&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026) | 매입임대 | 대전광역시 외 | 2026.03.26 ~ 2026.04.08 |

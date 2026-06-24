@@ -14,7 +14,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 2026년 3월에는 총 10건의 LH청약 공고가 발표되었습니다. 이 글에서는 청약 자격, 일정, 신청 방법 등 실용적인 정보를 제공합니다. 공고의 종류는 분양주택, 임대주택, 상가 등 다양하므로, 자신의 상황에 맞는 청약을 선택할 수 있도록 정보를 체계적으로 정리하였습니다.
 
 | 공고명 | 유형 | 지역 | 접수기간 |
-| --- | --- | --- | --- |
+|---|---|---|---|
 | [청주 10년 분양전환공공임대주택](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061063&ccrCnntSysDsCd=02&uppAisTpCd=06&aisTpCd=08&mi=1026) | 공공임대 | 충청북도 | 2026.03.27 ~ 2026.04.08 |
 | [인천가정2 A-2블록 신혼희망타운](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061065&ccrCnntSysDsCd=02&uppAisTpCd=39&aisTpCd=39&mi=1027) | 공공분양(신혼희망) | 인천광역시 | 2026.03.27 ~ 2026.04.10 |
 | [대구경북 다세대주택 잔여세대 선착순 일반매각](https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300019618&ccrCnntSysDsCd=03&uppAisTpCd=05&aisTpCd=05&mi=1027) | 분양주택 | 대구광역시 | 2026.03.27 ~ 2026.12.18 |
