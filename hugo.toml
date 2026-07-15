@@ -2,6 +2,7 @@ baseURL = "https://apply.informationhot.kr/"
 languageCode = "ko"
 title = "청약 알리미"
 theme = "blowfish"
+themesDir = "/Users/twinssn/Projects/shared-themes"
 enableRobotsTXT = true
 [pagination]
   pagerSize = 20
