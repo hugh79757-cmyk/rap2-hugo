@@ -63,7 +63,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [KURUA 침대 매트리스 독립스프링 매트리스, 30cm, 중간](https://link.coupang.com/a/enRhwO) — 311,800원
 - [쿠잉 무타공 주키 손잡이있음 원격제어 IoT 현관문 스마트도어락 DL-BHT03BK + 보강판 + 게이트웨이 세트, DL-BHT03BK, 방문설치](https://link.coupang.com/a/enRhy9) — 159,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 
 ## 함께 읽으면 좋은 글

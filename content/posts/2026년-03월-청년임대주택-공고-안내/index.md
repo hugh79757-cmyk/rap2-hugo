@@ -65,7 +65,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [삼성전자 BESPOKE AI 식기세척기 빌트인 12인용](https://link.coupang.com/a/ec1dcj) — 777,270원
 - [Qicco 침대 매트리스 무음 포켓스프링 바닥 매트리스, 20cm, 중간](https://link.coupang.com/a/ec1dfB) — 210,800원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

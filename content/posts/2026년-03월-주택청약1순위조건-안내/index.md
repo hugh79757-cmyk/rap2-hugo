@@ -50,7 +50,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [가정용 데스크탑 LED 스마트 스크린 즉열식 전기포트 5단 수온 3단 수량 탁상용 소형 전기포트, 흰색](https://link.coupang.com/a/eeSRes) — 167,800원
 - [LG전자 디오스 AI 오브제컬렉션 냉장고 832L 방문설치](https://link.coupang.com/a/eeSRgI) — 1,280,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

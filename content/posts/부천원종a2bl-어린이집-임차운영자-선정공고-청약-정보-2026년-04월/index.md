@@ -50,7 +50,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [LG전자 디오스 인덕션 3구 방문설치](https://link.coupang.com/a/er1e1a) — 729,490원
 - [파페피 대용량 접이식 이사봉투 방수, 5개, 실버](https://link.coupang.com/a/er1e4b) — 34,400원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

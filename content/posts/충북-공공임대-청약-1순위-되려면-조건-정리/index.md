@@ -60,7 +60,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [최신형 차이슨 AI 자동 충전 먼지 비움 올인원 스마트 타워 무선청소기, AI TOWER 청소기 + 물걸레키트, 화이트](https://link.coupang.com/a/emrM1Z) — 211,000원
 - [쿠잉 무타공 주키 손잡이있음 원격제어 IoT 현관문 스마트도어락 DL-BHT03BK + 보강판 + 게이트웨이 세트, DL-BHT03BK, 방문설치](https://link.coupang.com/a/emrM5w) — 159,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 
 ## 함께 읽으면 좋은 글

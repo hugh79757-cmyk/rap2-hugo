@@ -50,7 +50,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [최신형 차이슨 AI 자동 충전 먼지 비움 올인원 스마트 타워 무선청소기, AI TOWER 청소기 + 물걸레키트, 화이트](https://link.coupang.com/a/erccrO) — 211,000원
 - [LG전자 디오스 오브제컬렉션 빌트인 식기세척기 12인용](https://link.coupang.com/a/erccvc) — 672,960원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

@@ -1,9 +1,7 @@
 baseURL = "https://apply.informationhot.kr/"
-googleAnalytics = "G-MESXJGZVLF"
 languageCode = "ko"
 title = "청약 알리미"
 theme = "blowfish"
-themesDir = "/Users/twinssn/Projects/shared-themes"
 enableRobotsTXT = true
 [pagination]
   pagerSize = 20
@@ -58,6 +56,9 @@ enableRobotsTXT = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+    [markup.goldmark.extensions]
+      strikethrough = false
 
 [[menus.main]]
   name = "글 목록"

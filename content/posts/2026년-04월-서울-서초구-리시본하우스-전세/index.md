@@ -51,7 +51,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [파로마 네오 디에고 원터치 내맘대로 색상선택 9단 신발장 800, 화이트, 9단](https://link.coupang.com/a/eyc1gz) — 132,000원
 - [블루밍 올터치 리모컨 방수비데, IPX-RX700A, 고객직접설치](https://link.coupang.com/a/eyc1ls) — 249,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

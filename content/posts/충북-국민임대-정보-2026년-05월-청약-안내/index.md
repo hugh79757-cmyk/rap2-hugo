@@ -49,7 +49,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [PAPEPIE 90리터 방수 폴딩 이사박스 이사가방, 5개, 로열 블루](https://link.coupang.com/a/eB5yb9) — 34,400원
 - [블루밍 안심세척 방수비데, IPX500A PLUS, 고객직접설치](https://link.coupang.com/a/eB5ydF) — 169,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

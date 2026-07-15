@@ -61,7 +61,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [삼성전자 56.9㎡(17.2평) + 18.7㎡(5.7평) AI Q9000 홈멀티형 에어컨 AF60F17D11WRT + 리모컨 세트 방문설치](https://link.coupang.com/a/eoynBk) — 1,591,000원
 - [매직쉐프 올 스텐 무회전 25L 대용량 플랫 전자레인지 MMW-WC25TES, MMW-WC25TES](https://link.coupang.com/a/eoynGd) — 198,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 
 ## 함께 읽으면 좋은 글

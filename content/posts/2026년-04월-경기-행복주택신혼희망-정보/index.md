@@ -55,7 +55,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [아라마가구 칸칸신발장 와이드형, 화이트워시, 5단](https://link.coupang.com/a/ezLx2n) — 40,060원
 - [홈앤미 튼튼한 스틸 2단 빨래건조대, 크림](https://link.coupang.com/a/ezLx6n) — 36,800원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

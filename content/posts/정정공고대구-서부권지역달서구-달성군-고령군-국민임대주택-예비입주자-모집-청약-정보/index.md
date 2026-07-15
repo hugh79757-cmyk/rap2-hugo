@@ -70,7 +70,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [현관 대용량 수납장 원룸 아파트 문뒤 다용도 서랍 신발장, 화이트+화이트 1000*320*1000(mm), 4단](https://link.coupang.com/a/eGtHpt) — 339,600원
 - [쿠잉전자 무타공 주키 손잡이있음 원격제어 IoT 현관문 스마트도어락 DL-BHT03BK + 보강판 + 게이트웨이 세트, DL-BHT03BK, 방문설치](https://link.coupang.com/a/eGtHtv) — 159,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 
 ## 함께 읽으면 좋은 글

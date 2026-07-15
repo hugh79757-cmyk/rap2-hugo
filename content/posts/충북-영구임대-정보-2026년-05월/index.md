@@ -49,7 +49,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [New World 접이식 빨래 건조대 3단 이동식 실내 다기능 빨래건조대 170CM, 크림 화이트](https://link.coupang.com/a/eGnCfs) — 100,000원
 - [삼성전자 AI 건조기 21kg 방문설치](https://link.coupang.com/a/eGnChj) — 940,240원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

@@ -51,7 +51,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [LG전자 디오스 오브제컬렉션 빌트인 식기세척기 12인용](https://link.coupang.com/a/eyqrH5) — 679,000원
 - [슈어홈 4세대 가정용 공기청정기 소형, 화이트, 4세대 소형 공기청정기](https://link.coupang.com/a/eyqrJJ) — 179,800원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

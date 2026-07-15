@@ -51,7 +51,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [LG전자 트롬 건조기 20kg 방문설치](https://link.coupang.com/a/eFhot3) — 1,222,860원
 - [매직쉐프 올 스텐 무회전 25L 대용량 플랫 전자레인지 MMW-WC25TES, MMW-WC25TES](https://link.coupang.com/a/eFhoxh) — 198,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

@@ -57,7 +57,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [KURUA 침대 매트리스 독립스프링 매트리스, 30cm, 중간](https://link.coupang.com/a/emxcwf) — 311,800원
 - [파페피 대용량 접이식 이사봉투 방수, 5개, 실버](https://link.coupang.com/a/emxczg) — 34,400원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 
 ## 함께 읽으면 좋은 글

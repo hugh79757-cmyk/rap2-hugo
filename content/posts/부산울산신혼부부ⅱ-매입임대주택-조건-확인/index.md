@@ -58,7 +58,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [LG전자 56.9㎡ 인버터 휘센 오브제컬렉션 위너 스탠드형 에어컨 FQ17HDWHC1 방문설치](https://link.coupang.com/a/enKgj6) — 1,420,000원
 - [최신형 차이슨 AI 자동 충전 먼지 비움 올인원 스마트 타워 무선청소기, AI TOWER 청소기 + 물걸레키트, 화이트](https://link.coupang.com/a/enKgpa) — 211,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 
 ## 함께 읽으면 좋은 글

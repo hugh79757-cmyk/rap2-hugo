@@ -51,7 +51,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [LG전자 퓨리케어 360도 Hit 공기청정기 62㎡](https://link.coupang.com/a/exhDez) — 362,840원
 - [워터케어 냉온정수기 DWP-815T(백색), 815T(검정), 815T(적색), 815T(실버) 일시불판매 제조 직판 공장도가 슬림형 냉온정수기 정수기, NA-815TW(백색)](https://link.coupang.com/a/exhDh4) — 275,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

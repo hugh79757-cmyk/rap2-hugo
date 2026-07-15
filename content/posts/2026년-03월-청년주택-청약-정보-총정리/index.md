@@ -91,7 +91,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [퓨리얼 언더싱크 정수기 방문설치](https://link.coupang.com/a/ecoYY4) — 146,370원
 - [쿠잉전자 레트로 전자레인지 다이얼식 20L 퓨어크림, MC-RCR20A](https://link.coupang.com/a/ecoY0b) — 82,740원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 
 ## 함께 읽으면 좋은 글

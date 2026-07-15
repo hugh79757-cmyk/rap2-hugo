@@ -51,7 +51,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [KURUA 침대 매트리스(슈퍼싱글)독립스프링 매트리스, 20cm, 중간](https://link.coupang.com/a/eFhpo3) — 359,000원
 - [쿠첸 IH BLACK 3400 3구 인덕션 방문설치](https://link.coupang.com/a/eFhpr1) — 700,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

@@ -49,7 +49,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [New World 다기능 빨래건조대 스틸 3단 접이식 빨래건조대 신발걸이 + 방풍바 180CM, 건메탈 그레이](https://link.coupang.com/a/eCVLuD) — 100,000원
 - [투에스리빙 속깊은 확장 드레스룸 서랍형 옷장 시스템 행거, 블랙](https://link.coupang.com/a/eCVLwz) — 98,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

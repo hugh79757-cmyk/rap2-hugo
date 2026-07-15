@@ -49,7 +49,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [삼성전자 BESPOKE AI 빌트인 열풍건조 식기세척기 14인용](https://link.coupang.com/a/ezssYh) — 981,660원
 - [블루밍 메디워시 울트라슬림 수압펌프 살균 앤 항균 파워건조 야광조명 전체 교체형 풀스텐 노즐 비데, MEDI-9R, 고객직접설치](https://link.coupang.com/a/ezssZI) — 369,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

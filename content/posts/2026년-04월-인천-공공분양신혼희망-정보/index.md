@@ -49,7 +49,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [LG전자 디오스 AI 오브제컬렉션 냉장고 832L 방문설치](https://link.coupang.com/a/ezkoLP) — 1,280,000원
 - [수납장 3단 다용도 수납장 심플 거실장  거실 수납장](https://link.coupang.com/a/ezkoNW) — 74,800원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

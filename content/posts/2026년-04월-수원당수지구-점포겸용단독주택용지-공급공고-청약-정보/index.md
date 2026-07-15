@@ -49,7 +49,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [슈어홈 4세대 가정용 공기청정기 소형, 화이트, 4세대 소형 공기청정기](https://link.coupang.com/a/evljA7) — 179,800원
 - [Y형 튼튼한 접이식 빨래 건조대, 베이지](https://link.coupang.com/a/evljNp) — 58,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 

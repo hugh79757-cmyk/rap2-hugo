@@ -50,7 +50,7 @@ thumbnail: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/2
 - [마이디어 건조겸용 드럼세탁기 12kg + 8kg 방문설치, MFK03D120B/SK-KR, 실버](https://link.coupang.com/a/eruddh) — 769,000원
 - [뷔이위이 신발장 정리대 초슬림 현관 틈새 수납장](https://link.coupang.com/a/erudfP) — 89,140원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
+> <strong>이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</strong>
 
 ## 함께 읽으면 좋은 글
 
